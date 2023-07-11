@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secret-project/static/css/main.71d8204b.css",
+    "main.js": "/secret-project/static/js/main.ff88d31c.js",
+    "index.html": "/secret-project/index.html",
+    "main.71d8204b.css.map": "/secret-project/static/css/main.71d8204b.css.map",
+    "main.ff88d31c.js.map": "/secret-project/static/js/main.ff88d31c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d8204b.css",
+    "static/js/main.ff88d31c.js"
+  ]
+}
